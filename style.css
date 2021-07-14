@@ -1,0 +1,45 @@
+.campus_life img{
+width:100%;
+height:300px;
+}
+.campus_life hr{
+width:100%;
+}
+.campus_life" h5, travel_mainDiv p{
+margin-left:20px;
+}
+.row:: after{
+content:"";
+clear:both;
+display:table;
+}
+.campus_life{
+float: left;
+width:33.33%;
+padding:5px;
+border:1px solid #c7c7c7;
+}
+#footer{
+height:20px;
+background-color:white;
+}
+body{
+background-color: greenyellow;
+}
+#achievementsID{
+padding-bottom: 10px;
+}
+.movie_head{
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+width: 100%;
+display: inline-block;
+}
+.movie_head i{
+float: right;
+}
+.movie_text span{
+color: #ff7700;
+}
